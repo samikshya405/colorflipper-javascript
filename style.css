@@ -1,0 +1,28 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+
+
+}
+.container{
+    text-align: center;
+    
+}
+h2{
+    color: white;
+    background-color: black;
+    padding: 5px;
+}
+span{
+    color: blue;
+    text-transform: capitalize;
+}
+button{
+    text-transform: uppercase;
+    padding: 10px 30px;
+    font-weight: 600;
+    cursor: pointer;
+}
